@@ -15,7 +15,7 @@ public class Conexion {
     //BASE DE DATOS LOCAL
     String conString = "jdbc:mysql://localhost:3306/reto5";
     String username = "root";
-    String password = "Brigard2113";
+    String password = "";
 
     //Fabricantes
     public Boolean addFabrica(String name) {
